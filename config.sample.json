@@ -1,12 +1,12 @@
 {
     "db": {
-        "username": "osu",
-        "password": "TacomeFOde1O",
-        "database": "awasu",
+        "username": "god",
+        "password": "p@55w0rd",
+        "database": "praysu",
         "host": "localhost"
     },
     "bancho": {
-        "port": 80,
+        "port": 5476,
         "botId": 1,
         "apiKey": ""
     }
