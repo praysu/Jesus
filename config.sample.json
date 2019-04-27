@@ -1,0 +1,13 @@
+{
+    "db": {
+        "username": "osu",
+        "password": "TacomeFOde1O",
+        "database": "awasu",
+        "host": "localhost"
+    },
+    "bancho": {
+        "port": 80,
+        "botId": 1,
+        "apiKey": ""
+    }
+}
